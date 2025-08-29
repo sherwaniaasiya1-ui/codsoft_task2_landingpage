@@ -24,9 +24,6 @@ The objective of this task was to design and develop a **modern, responsive, and
 ---
 ## 👩‍💻 Author
 **Anzala Sherwani**  
-📧 Email: your-email@example.com  
-🌐 LinkedIn: [Your LinkedIn Profile](#)  
-
 ---
 
 ⭐ Don’t forget to **star this repo** if you found it helpful!
